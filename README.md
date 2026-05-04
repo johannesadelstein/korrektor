@@ -1,5 +1,6 @@
-# bit.ly/textkorrektor
+# [is.gd/korrektor](https://is.gd/korrektor)
 
+**maschinenlesbarer Prompt:** https://raw.githubusercontent.com/johannesadelstein/textkorrektor/refs/heads/main/korrektor.txt  
 **Stand:** 3. Mai 2026  
 **Lizenz:** CC BY 4.0  
 **Lizenzhinweis:** CC BY 4.0 gilt für alle Versionen ab dem 28. April 2026.  
@@ -22,7 +23,7 @@ Dieses Dokument enthält einen Prompt zur Textkorrektur.
 
 Der KI direkt sagen:
 
-> Gehe bei meinem Text vor wie bit.ly/textkorrektor.
+> Gehe bei meinem Text vor wie is.gd/korrektor
 
 ---
 
@@ -30,7 +31,7 @@ Der KI direkt sagen:
 
 ### 1. Linkmaschine
 
-**textkorrektor** ist eine Linkmaschine. Er bietet eine hilfreiche
+**is.gd/korrektor** ist eine Linkmaschine. Er bietet eine hilfreiche
 Darstellung für das Kopieren und Einfügen fehlerhafter Ausdrücke, etwa
 für die Suche im Originaltext oder für die Dokumentation.
 
@@ -47,28 +48,20 @@ automatisch den nächsten Abschnitt.
 
 ### 3. Erneute Aktivierung bei vielen Fehlern
 
-Gerade wenn **textkorrektor** viele Fehler findet, kann es sich lohnen,
-das Programm erneut zu aktivieren.
-
-**textkorrektor** ist jedoch darauf ausgelegt, die gröbsten Fehler bereits
+Gerade wenn **is.gd/korrektor** viele Fehler findet, kann es sich lohnen,
+das Programm erneut zu aktivieren. **is.gd/korrektor** ist jedoch darauf ausgelegt, die gröbsten Fehler bereits
 im ersten Durchgang zu finden.
 
 ### 4. Mehrere Texte
 
-**textkorrektor** kann mehrere kleinere Texte gleichzeitig überprüfen.
+**is.gd/korrektor** kann mehrere kleinere Texte gleichzeitig überprüfen.
 
 ### 5. Zusatzinformationen
 
-**textkorrektor** kann Zusatzinformationen vom Anwender aufnehmen, am
-besten vor dem zu korrigierenden Text.
-
-Mit einem aktuellen Datum kann **textkorrektor** die Aktualität von Texten,
-etwa Ankündigungen, überprüfen.
-
-Die Trennung dieser Informationen vom zu korrigierenden Text macht es dem
-Programm leichter, die Information einzuordnen.
-
-Beispiel:
+**is.gd/korrektor** kann Zusatzinformationen vom Anwender aufnehmen, am
+besten vor dem zu korrigierenden Text. Mit einem aktuellen Datum kann **is.gd/korrektor** die Aktualität von Texten,
+etwa Ankündigungen, überprüfen. Die Trennung dieser Informationen vom zu korrigierenden Text macht es dem
+Programm leichter, die Information einzuordnen. Beispiel:
 
 ```text
 Wichtig: Erscheinungsdatum der Texte ist morgen, Mittwoch, 22. April 2026.
@@ -77,16 +70,14 @@ Wichtig: Erscheinungsdatum der Texte ist morgen, Mittwoch, 22. April 2026.
 
 ### 6. Foto oder Datei
 
-Schicken Sie ein Foto von einem Text oder eine Datei an Ihre Abo-KI und 
+Schicken Sie von ihrem Handy ein Foto von einem Text oder eine Datei an Ihre Abo-KI und 
 geben Sie dazu ein:
 
-> vorgehen wie bit.ly/textkorrektor
+> vorgehen wie is.gd/korrektor
 
 ### 7. Grenzen
 
-**textkorrektor** ist auch nur kein Mensch und kann – wie wir alle –
-überzeugt sein, dass etwas Falsches wahr ist.
-Sinn solcher Assistenz, wie auch bei LanguageTool, ist es, zu helfen,
-übersehenes Falsches zu finden.
-Der immense Vorteil der zugrundeliegenden LLM-Technologie ist, dass sie
+**is.gd/korrektor** ist auch nur kein Mensch und kann – wie wir alle –
+überzeugt sein, dass etwas Falsches wahr ist. Sinn solcher Assistenz, wie auch bei LanguageTool, ist es, zu helfen,
+übersehenes Falsches zu finden. Der immense Vorteil der zugrundeliegenden LLM-Technologie ist, dass sie
 inhaltlich suchen kann.
