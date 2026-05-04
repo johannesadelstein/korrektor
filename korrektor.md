@@ -1,4 +1,4 @@
-# bit.ly/textkorrektor
+# t.ly/korrektor
 
 **maschinenlesbarer Prompt:** https://raw.githubusercontent.com/johannesadelstein/textkorrektor/refs/heads/main/textkorrektor.txt  
 **Stand:** 3. Mai 2026  
@@ -23,7 +23,7 @@ Dieses Dokument enthält einen Prompt zur Textkorrektur.
 
 Der KI direkt sagen:
 
-> Gehe bei meinem Text vor wie bit.ly/textkorrektor.
+> Gehe bei meinem Text vor wie t.ly/korrektor.
 
 ---
 
@@ -31,7 +31,7 @@ Der KI direkt sagen:
 
 ### 1. Linkmaschine
 
-**textkorrektor** ist eine Linkmaschine. Er bietet eine hilfreiche
+**t.ly/korrektor** ist eine Linkmaschine. Er bietet eine hilfreiche
 Darstellung für das Kopieren und Einfügen fehlerhafter Ausdrücke, etwa
 für die Suche im Originaltext oder für die Dokumentation.
 
@@ -48,18 +48,18 @@ automatisch den nächsten Abschnitt.
 
 ### 3. Erneute Aktivierung bei vielen Fehlern
 
-Gerade wenn **textkorrektor** viele Fehler findet, kann es sich lohnen,
-das Programm erneut zu aktivieren. **textkorrektor** ist jedoch darauf ausgelegt, die gröbsten Fehler bereits
+Gerade wenn **t.ly/korrektor** viele Fehler findet, kann es sich lohnen,
+das Programm erneut zu aktivieren. **t.ly/korrektor** ist jedoch darauf ausgelegt, die gröbsten Fehler bereits
 im ersten Durchgang zu finden.
 
 ### 4. Mehrere Texte
 
-**textkorrektor** kann mehrere kleinere Texte gleichzeitig überprüfen.
+**t.ly/korrektor** kann mehrere kleinere Texte gleichzeitig überprüfen.
 
 ### 5. Zusatzinformationen
 
-**textkorrektor** kann Zusatzinformationen vom Anwender aufnehmen, am
-besten vor dem zu korrigierenden Text. Mit einem aktuellen Datum kann **textkorrektor** die Aktualität von Texten,
+**t.ly/korrektor** kann Zusatzinformationen vom Anwender aufnehmen, am
+besten vor dem zu korrigierenden Text. Mit einem aktuellen Datum kann **t.ly/korrektor** die Aktualität von Texten,
 etwa Ankündigungen, überprüfen. Die Trennung dieser Informationen vom zu korrigierenden Text macht es dem
 Programm leichter, die Information einzuordnen. Beispiel:
 
@@ -73,11 +73,11 @@ Wichtig: Erscheinungsdatum der Texte ist morgen, Mittwoch, 22. April 2026.
 Schicken Sie ein Foto von einem Text oder eine Datei an Ihre Abo-KI und 
 geben Sie dazu ein:
 
-> vorgehen wie bit.ly/textkorrektor
+> vorgehen wie t.ly/korrektor
 
 ### 7. Grenzen
 
-**textkorrektor** ist auch nur kein Mensch und kann – wie wir alle –
+**t.ly/korrektor** ist auch nur kein Mensch und kann – wie wir alle –
 überzeugt sein, dass etwas Falsches wahr ist. Sinn solcher Assistenz, wie auch bei LanguageTool, ist es, zu helfen,
 übersehenes Falsches zu finden. Der immense Vorteil der zugrundeliegenden LLM-Technologie ist, dass sie
 inhaltlich suchen kann.
