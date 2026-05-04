@@ -74,3 +74,25 @@ Beispiel:
 ```text
 Wichtig: Erscheinungsdatum der Texte ist morgen, Mittwoch, 22. April 2026.
 ========= ZU KORRIGIERENDE TEXTE: =========
+
+### 6. Foto oder Datei
+
+Schicken Sie ein Foto von einem Text oder eine Datei an Ihre Abo-KI und
+
+geben Sie dazu ein:
+
+> vorgehen wie bit.ly/derkorrektor
+
+### 7. Grenzen
+
+**derkorrektor** ist auch nur kein Mensch und kann – wie wir alle –
+
+überzeugt sein, dass etwas Falsches wahr ist.
+
+Sinn solcher Assistenz, wie auch bei LanguageTool, ist es, zu helfen,
+
+übersehenes Falsches zu finden.
+
+Der immense Vorteil der zugrundeliegenden LLM-Technologie ist, dass sie
+
+inhaltlich suchen kann.
