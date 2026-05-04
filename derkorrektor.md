@@ -98,7 +98,7 @@ Die folgenden Anweisungen bilden den eigentlichen Prompt. Kopieren Sie
 
 ab hier bis zur Zeile `========= USER-EINGABE: =========`.
 
-========= BEGINN DES PROMPTs =========
+========= BEGINN DES PROMPTS =========
 
 ```text
 
