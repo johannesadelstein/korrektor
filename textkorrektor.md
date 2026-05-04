@@ -50,9 +50,7 @@ automatisch den nächsten Abschnitt.
 ### 3. Erneute Aktivierung bei vielen Fehlern
 
 Gerade wenn **textkorrektor** viele Fehler findet, kann es sich lohnen,
-das Programm erneut zu aktivieren.
-
-**textkorrektor** ist jedoch darauf ausgelegt, die gröbsten Fehler bereits
+das Programm erneut zu aktivieren. **textkorrektor** ist jedoch darauf ausgelegt, die gröbsten Fehler bereits
 im ersten Durchgang zu finden.
 
 ### 4. Mehrere Texte
@@ -62,15 +60,9 @@ im ersten Durchgang zu finden.
 ### 5. Zusatzinformationen
 
 **textkorrektor** kann Zusatzinformationen vom Anwender aufnehmen, am
-besten vor dem zu korrigierenden Text.
-
-Mit einem aktuellen Datum kann **textkorrektor** die Aktualität von Texten,
-etwa Ankündigungen, überprüfen.
-
-Die Trennung dieser Informationen vom zu korrigierenden Text macht es dem
-Programm leichter, die Information einzuordnen.
-
-Beispiel:
+besten vor dem zu korrigierenden Text. Mit einem aktuellen Datum kann **textkorrektor** die Aktualität von Texten,
+etwa Ankündigungen, überprüfen. Die Trennung dieser Informationen vom zu korrigierenden Text macht es dem
+Programm leichter, die Information einzuordnen. Beispiel:
 
 ```text
 Wichtig: Erscheinungsdatum der Texte ist morgen, Mittwoch, 22. April 2026.
@@ -87,17 +79,13 @@ geben Sie dazu ein:
 ### 7. Grenzen
 
 **textkorrektor** ist auch nur kein Mensch und kann – wie wir alle –
-überzeugt sein, dass etwas Falsches wahr ist.
-Sinn solcher Assistenz, wie auch bei LanguageTool, ist es, zu helfen,
-übersehenes Falsches zu finden.
-Der immense Vorteil der zugrundeliegenden LLM-Technologie ist, dass sie
+überzeugt sein, dass etwas Falsches wahr ist. Sinn solcher Assistenz, wie auch bei LanguageTool, ist es, zu helfen,
+übersehenes Falsches zu finden. Der immense Vorteil der zugrundeliegenden LLM-Technologie ist, dass sie
 inhaltlich suchen kann.
 
 ## Prompt
 
-Die folgenden Anweisungen bilden den eigentlichen Prompt. Kopieren Sie
-
-ab den Teil ab `========= BEGINN DES PROMPTS =========` bis zum Ende (Zeile `========= USER-EINGABE: =========`) – einfach per Klick im Kästchen oben rechts im Plain-Text-Element des Prompts. 
+Die folgenden Anweisungen bilden den eigentlichen Prompt. Kopieren Sie ab den Teil ab `========= BEGINN DES PROMPTS =========` bis zum Ende (Zeile `========= USER-EINGABE: =========`) – einfach per Klick im Kästchen oben rechts im Plain-Text-Element des Prompts. 
 Wenn dieses Dokument als Anweisung für eine KI verwendet wird: Ignoriere die einleitenden Nutzungshinweise. Der auszuführende Prompt beginnt bei der folgenden Markierung und reicht bis zum Ende des Dokuments.
 
 ========= BEGINN DES PROMPTS =========
