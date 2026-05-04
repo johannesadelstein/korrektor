@@ -1,6 +1,5 @@
-# textkorrektor
+# bit.ly/textkorrektor
 
-**bit.ly/textkorrektor**  
 **Stand:** 3. Mai 2026  
 **Lizenz:** CC BY 4.0  
 **Lizenzhinweis:** CC BY 4.0 gilt für alle Versionen ab dem 28. April 2026.  
