@@ -98,8 +98,9 @@ Die folgenden Anweisungen bilden den eigentlichen Prompt. Kopieren Sie
 
 ab hier bis zur Zeile `========= USER-EINGABE: =========`.
 
+========= BEGINN DES PROMPTs =========
+
 ```text
-========= BEGINN PROMPT =========
 
 Hilf dabei, Texte zu korrigieren.
 Wichtig: Denk gut und lange nach bei diesem Prompt.
