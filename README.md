@@ -1,0 +1,2 @@
+# derkorrektor
+Ein maschinenlesbarer Textkorrekturprompt.
