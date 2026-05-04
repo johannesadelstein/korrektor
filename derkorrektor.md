@@ -98,7 +98,7 @@ Die folgenden Anweisungen bilden den eigentlichen Prompt. Kopieren Sie
 
 ab hier bis zur Zeile `========= USER-EINGABE: =========`.
 
-´´´text
+```text
 ========= BEGINN PROMPT =========
 
 Hilf dabei, Texte zu korrigieren.
@@ -165,4 +165,4 @@ Falls der Anwender zustimmt:
 
 ========= USER-EINGABE: =========
 
-´´´
+```
