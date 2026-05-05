@@ -31,7 +31,7 @@ Der KI direkt sagen:
 
 ### 1. Linkmaschine
 
-**is.gd/korrektor** ist eine Linkmaschine (vgl. 6). Der enthaltene Prompt bietet eine hilfreiche
+**is.gd/korrektor** ist eine Linkmaschine (vgl. Möglichkeit 2, s. oben, und Punkt 6). Der enthaltene Prompt bietet eine hilfreiche
 Darstellung für das Kopieren und Einfügen fehlerhafter Ausdrücke, etwa
 für die Suche im Originaltext oder für die Dokumentation.
 
