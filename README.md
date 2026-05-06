@@ -6,7 +6,7 @@
 
 ---
 
-This document contains a prompt for text correction.
+This document contains a prompt for multilingual text correction.
 
 ## How do I use the prompt?
 
