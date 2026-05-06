@@ -53,7 +53,7 @@ find the most serious errors in the first pass.
 
 ### 4. Multiple texts
 
-**is.gd/korrektor** can check several shorter texts at the same time.
+**is.gd/korrektor** can check several shorter texts at the same time. It can also process texts in other languages, but it is specialized in German texts.
 
 ### 5. Additional information
 
