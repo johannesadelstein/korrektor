@@ -7,7 +7,7 @@
 
 ---
 
-Dieses Dokument enthält einen Prompt zur Textkorrektur.
+Dieses Dokument enthält einen Prompt zur mehrsprachigen Textkorrektur.
 
 ## Wie setze ich den Prompt ein?
 
