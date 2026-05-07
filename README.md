@@ -14,12 +14,11 @@ This document contains a prompt for multilingual text correction.
 
 1. Copy the prompt text through to the end and paste it into an AI of your
    choice.  
-   The prompt has been tested on ChatGPT.com.
 2. Append the text to be corrected at the end.
 
 ### Option 2: Direct reference
 
-Tell the AI directly:
+Tell the AI directly (tested with Claude und Grok, 2026-05-07):
 
 > Proceed with my text as described at is.gd/korrektor
 
