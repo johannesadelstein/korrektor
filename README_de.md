@@ -14,12 +14,11 @@ Dieses Dokument enthält einen Prompt zur mehrsprachigen Textkorrektur.
 
 1. Den Prompttext bis zum Ende kopieren und in eine KI eigener Wahl
    einfügen.  
-   Getestet wurde der Prompt auf ChatGPT.com.
 2. Den zu korrigierenden Text hinten anfügen.
 
 ### Möglichkeit 2: Direkter Verweis
 
-Der KI direkt sagen:
+Der KI direkt sagen (getestet auf Claude und Grok, 7. Mai 2026):
 
 > Gehe bei meinem Text vor wie is.gd/korrektor
 
