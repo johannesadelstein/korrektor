@@ -19,7 +19,7 @@ Dieses Dokument enthält einen Prompt zur mehrsprachigen Textkorrektur.
 
 ### Möglichkeit 2: Direkter Verweis
 
-Der KI direkt sagen (getestet auf Claude und Grok, , 7. Mai 2026):
+Der KI direkt sagen (getestet auf Claude und Grok, 7. Mai 2026):
 
 > Gehe bei meinem Text vor wie is.gd/korrektor und denk dabei gut nach
 
