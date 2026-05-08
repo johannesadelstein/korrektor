@@ -11,7 +11,7 @@ Dieses Dokument enthält einen Prompt zur mehrsprachigen Textkorrektur.
 
 ## Wie setze ich den Prompt ein?
 
-### Möglichkeit 1: elegant.
+### Möglichkeit 1: elegant
 
 Geben Sie der KI Ihren Text und sagen Sie ihr (getestet auf Abo-ChatGPT und freiem Claude und Grok, 7. Mai 2026):
 
