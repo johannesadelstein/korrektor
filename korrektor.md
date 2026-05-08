@@ -29,9 +29,7 @@ Geben Sie der KI Ihren Text und sagen Sie ihr (getestet auf Abo-ChatGPT und frei
 
 ### 1. Linkmaschine
 
-**is.gd/korrektor** ist eine Linkmaschine (vgl. Möglichkeit 2, s. oben, und Punkt 6). Der enthaltene Prompt bietet eine hilfreiche
-Darstellung für das Kopieren und Einfügen fehlerhafter Ausdrücke, etwa
-für die Suche im Originaltext oder für die Dokumentation.
+**is.gd/korrektor** ist eine Linkmaschine (vgl. Möglichkeit 2, s. oben, und Punkt 6). Damit lassen sich redaktionelle KI-Prozesse für die Arbeit an Texten mit einfachen, reproduzierbaren Mitteln organisieren. Ziel ist ein einfacherer Umgang mit Textversionen und Arbeitsabläufen.
 
 ### 2. Vorprüfung mit LanguageTool
 
@@ -68,7 +66,7 @@ Wichtig: Erscheinungsdatum der Texte ist morgen, Mittwoch, 22. April 2026.
 
 ### 6. Foto oder Datei
 
-Schicken Sie von Ihrem Handy ein Foto von einem Text oder eine Datei an Ihre Abo-KI und lassen Sie das korrigieren!
+Schicken Sie von Ihrem Handy ein Foto von einem Text oder eine Datei an Ihre Abo-KI und lassen Sie die KI das korrigieren!
 
 ### 7. Grenzen
 
