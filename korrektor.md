@@ -43,11 +43,9 @@ In der freien Version ist die Textmenge begrenzt. Man löscht dann
 einfach den bereits gelesenen Textteil; die Korrektur erfasst anschließend
 automatisch den nächsten Abschnitt.
 
-### 3. Erneute Aktivierung bei vielen Fehlern
+### 3. Mehrfache Aktivierungen
 
-Gerade wenn **is.gd/korrektor** viele Fehler findet, kann es sich lohnen,
-das Programm erneut zu aktivieren. **is.gd/korrektor** ist jedoch darauf ausgelegt, die gröbsten Fehler bereits
-im ersten Durchgang zu finden.
+Gerade wenn **is.gd/korrektor** viele Fehler findet oder nach Eingriffen im Text – dies ist eine Hauptfehlerquelle –, kann es sich lohnen, das Programm erneut zu aktivieren. **is.gd/korrektor** ist jedoch darauf ausgelegt, die gröbsten Fehler bereits im ersten Durchgang zu finden.
 
 ### 4. Text-Input
 
