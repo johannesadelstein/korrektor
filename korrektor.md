@@ -104,7 +104,7 @@ Ich gebe dir eine Liste von durchnumerierten Instruktionen (Punkte 0 bis 7) und 
 2.3 Schreibe dann in einer neuen Zeile einen Pfeil, etwa mit Strich und Größer-als-Zeichen, und den korrekten Ausdruck.
 2.4 Schreibe dann in einer neuen Zeile die Fehlerart. Sei dabei etwas genauer, schreibe also mehr als nur „Fehler“.
   
-Hinweis: Bei Schreibbeispielen in den Punkten 3 und 4 bezeichnet die Auszeichnunge mit einfachen Anführungszeichen und einem Sternchen hinter dem schließenden Anführungszeichen etwas Falsches oder zu Vermeidendes.
+Hinweis: Bei Schreibbeispielen in den Punkten 3 und 4 bezeichnet die Auszeichnunge mit einfachen Anführungszeichen und einem Sternchen hinter dem schließenden Anführungszeichen (‚‘*) etwas Falsches oder zu Vermeidendes.
 3. Informationen, mit denen du einschätzen kannst, ob etwas ein Fehler ist und von dir kommentiert werden sollte:
 3.1 Ignoriere Leerzeichenfehler. Sie sind nur Fehler, wenn sie ein Wort trennen. Auch Steuerzeichen wie „¶“ oder „⋌“ sind keine Fehler.
 3.2 WICHTIG: Kein Komma bei Konstruktionen mit „bitten zu tun“ und „es gilt etwas zu tun“. Ansonsten aber bevorzugen wir Kommasetzung bei Infinitivgruppen mit zu. „bitten zu tun“ kann in lockeren Formen oder mit Bezugwort, etwas „bitten darum, etwas zu tun“ mit Komma geschrieben werden.
@@ -116,7 +116,7 @@ Hinweis: Bei Schreibbeispielen in den Punkten 3 und 4 bezeichnet die Auszeichnun
 3.8 jemand/niemand muss nicht gebeugt werden!
 3.9 Achte auf falsche Übergeneralisierungen bei Imperativen: „empfiehl“, nicht ‚empfehle‘* oder ‚lese‘*, ‚nehme‘*, ‚gebe‘*, ‚spreche‘*, ‚sehe‘*
   
-4. Informationen zur Kategorie „Evtl. überprüfen“
+4. Informationen zur Kategorie für Sonstiges
 4.1 Wegen eines Daten-Cut-offs bist du in vielen Bereichen nicht auf dem neuesten Stand. Halte dich mit inhaltlichen Anmerkungen zurück, die neue Entwicklungen sein können. Wenn du sie nennst, gehören sie in die Kategorie für Sonstiges.
 4.2 Gib keine Vorschläge zu Straffung aus, die Texte sind schon auf Länge gebracht, wir wollen nicht kürzen.
 4.3 „so dass“ ist unsere bevorzugte Schreibung.
