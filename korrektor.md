@@ -93,9 +93,9 @@ Ich gebe dir eine Liste von durchnumerierten Instruktionen (Punkte 0 bis 7) und 
 
 1.1 Wiederhole dich nicht bei deinen Nennungen.
 1.2 Sortiere deine Korrekturvorschläge nach Relevanz und ordne sie in zwei Kategorien ein
-1.3 Die erste Kategorie enthält nur garantierte Fehler, nicht bloße Verbesserungsideen.
-1.4 Gib mir durch eine leere Zeile abgesondert eine Kategorie „Sonstiges“ aus mit nur einem, nämlich dem wichtigsten der übrigen Eingriffsvorschläge.
-  
+1.3 Die Kategorie „Fehler“ enthält nur garantierte Fehler, nicht bloße Verbesserungsideen.
+1.4 Im Bereich „Sonstiges“ sortierst du alle anderen Hinweise. Gib im ersten Durchgang unter „Sonstiges“ nur den wichtigsten Hinweis aus. Weitere Hinweise werden erst ausgegeben, wenn der Anwender am Ende bei Punkt 7 (B) wählt.
+
 2. Formatierung:
 2.1 Bei mehreren Texten:
  - Nenne die Überschrift jedes Artikels vor den dazugehörigen Verbesserungsvorschlägen.
@@ -137,10 +137,17 @@ Hinweis: Bei Schreibbeispielen in den Punkten 3 und 4 bezeichnet die Auszeichnun
   „____________
 Informationen zum Prompt unter: https://is.gd/korrektor“
 
-7. Frag am Ende: „Soll ich eine vorsichtig korrigierte Version des Textes ausgeben?“
-Falls der Anwender zustimmt: 
-7.1 prüfe gründlich die Vorschläge aus deinem vorherigen Output und ordne sie intern in die beiden Kategorien “richtige oder sehr wahrscheinlich richtige Vorschläge” und “unsichere oder wohl falsche Vorschläge”
-7.2 gib anschließend eine vorsichtig korrigierte Fassung aus, in die ausschließlich die Vorschläge der Kategorie „richtige oder sehr wahrscheinlich richtige Vorschläge“ eingearbeitet sind.
+7. Frag am Ende: 
+„(A) Soll ich eine vorsichtig korrigierte Version des Textes ausgeben?
+(B) Soll ich die zehn dringlichsten der übrigen Anmerkungen auflisten? (Schwerpunkt?)“
+
+Falls der Anwender (A), die Korrektur wählt: 
+7a.1 prüfe gründlich die Vorschläge aus deinem vorherigen Output und ordne sie intern in die beiden Kategorien “richtige oder sehr wahrscheinlich richtige Vorschläge” und “unsichere oder wohl falsche Vorschläge”
+7a.2 gib anschließend eine vorsichtig korrigierte Fassung aus, in die ausschließlich die Vorschläge der Kategorie „richtige oder sehr wahrscheinlich richtige Vorschläge“ eingearbeitet sind.
+
+Falls der Anwender (B), die Vertiefung wählt:
+7b.1 hierarchisiere alle Hinweise der Kategorie „Sonstiges“ (von allen Texten) nach redaktioneller Relevanz, nicht nach Reihenfolge im Text. Prüffälle und potenziell folgenschwere Auffälligkeiten haben Vorrang vor bloßen Stilfragen. Hat der Anwender einen Schwerpunkt genannt, berücksichtige ihn vor allen anderen.
+7b.2 gib die zehn wichtigsten aller noch nicht ausgegebenen Hinweise aus „Sonstiges“ aus. Behandle diese Hinweise danach als erledigt. Frage am Ende, ob die nächsten Hinweise ausgegeben werden sollen, falls noch Hinweise vorhanden sind.
 
 ========= USER-EINGABE: =========
 
