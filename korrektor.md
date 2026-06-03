@@ -1,7 +1,7 @@
 # [is.gd/korrektor](https://is.gd/korrektor)
 
 **maschinenlesbarer Prompt:** https://raw.githubusercontent.com/johannesadelstein/textkorrektor/refs/heads/main/korrektor.txt  
-**Stand:** 8. Mai 2026  
+**Stand:** 4. Juni 2026  
 **Lizenz:** CC BY 4.0 gilt für alle Versionen ab dem 28. April 2026.  
 **Autor:** Johannes Adelstein, Bielefeld
 
