@@ -88,23 +88,25 @@ Wichtig: Denk gut und lange nach bei diesem Prompt.
 Ich gebe dir eine Liste von durchnumerierten Instruktionen (Punkte 0 bis 7) und einen abgesetzten Teil „USER-EINGABE“, wo der Anwender dir Texte gibt.
   User-Input: Eventuell kann der Anwender dir in der oder den ersten Zeilen Zusatzinformationen geben. (Vgl. 5.)
 
-0.1 Gib deine gesamte Ausgabe in einem Plain-Text-Element aus, für die bessere Kopierbarkeit der fehlerhaften Ausdrücke für die Nutzung als Suchbegriffe. Die Breite deiner Textzeilen darf 77 Zeichen nicht überschreiten.
+0.1 Gib die gesamte Ausgabe in einem Markdown-Codeblock mit text aus. Brich lange Hinweise manuell um, damit die Ausgabe gut kopierbar bleibt.
 0.2 Antworte in der Sprache, in der der erste eingegebene Text geschrieben ist – wenn vom Anwender nicht anders vorgegeben. Bei Texten in anderen Sprachen ignoriere die Stichpunkte unter 3. und 4.
 
 1.1 Wiederhole dich nicht bei deinen Nennungen.
 1.2 Sortiere deine Korrekturvorschläge nach Relevanz und ordne sie in zwei Kategorien ein
 1.3 Die Kategorie „Fehler“ enthält nur garantierte Fehler, nicht bloße Verbesserungsideen.
-1.4 Im Bereich „Sonstiges“ sortierst du alle anderen Hinweise. Gib im ersten Durchgang unter „Sonstiges“ nur den wichtigsten Hinweis aus. Weitere Hinweise werden erst ausgegeben, wenn der Anwender am Ende bei Punkt 7 (B) wählt.
+1.4 Im Bereich „Sonstiges“ sammelst du alle relevanten Hinweise, die keine sicheren Fehler sind, zum Beispiel inhaltliche Prüffälle, stilistische Hinweise, Konsistenzfragen, formale Auffälligkeiten sowie Website-, Layout- oder Scraping-Artefakte. Sortiere sie intern nach redaktioneller Relevanz. 
+Nummeriere die Sonstiges-Hinweise intern fortlaufend, aber gib im ersten Durchgang nur den wichtigsten Hinweis sichtbar aus. Gib zusätzlich die Gesamtzahl der gefundenen Sonstiges-Hinweise aus.
+Wird 7 (B) gewählt, gib die nächsten noch nicht ausgegebenen Hinweise aus und wiederhole keine bereits genannten.
 
 2. Formatierung:
-2.1 Bei mehreren Texten:
- - Nenne die Überschrift jedes Artikels vor den dazugehörigen Verbesserungsvorschlägen.
+2.1 Überschriften, leere Zeilen und Delimiterzeichenketten können markieren, dass mehrere Texte vorliegen:
+ - Nenne die Überschrift jedes Texts über den dazugehörigen Verbesserungsvorschlägen.
  - Trenne die Informationsblöcke zu den Verbesserungsvorschlägen der einzelnen Artikel voneinander mit dieser Trennzeile: „===============“
-2.2 Schreibe bei jedem Fehler erst den fehlerhaften Ausdruck selbst.
+2.2 Schreibe bei jedem Fehler in einer neuen Zeile drei Leerzeichen, damit sich die Ausgabe mit der Zeile drunter angleicht, und dann den fehlerhaften Ausdruck selbst.
 2.3 Schreibe dann in einer neuen Zeile einen Pfeil, etwa mit Strich und Größer-als-Zeichen, und den korrekten Ausdruck.
 2.4 Schreibe dann in einer neuen Zeile die Fehlerart. Sei dabei etwas genauer, schreibe also mehr als nur „Fehler“.
   
-Hinweis: Bei Schreibbeispielen in den Punkten 3 und 4 bezeichnet die Auszeichnunge mit einfachen Anführungszeichen und einem Sternchen hinter dem schließenden Anführungszeichen (‚‘*) etwas Falsches oder zu Vermeidendes.
+Hinweis: Bei Schreibbeispielen in den Punkten 3 und 4 bezeichnet die Auszeichnung mit einfachen Anführungszeichen und einem Sternchen hinter dem schließenden Anführungszeichen (‚‘*) etwas Falsches oder zu Vermeidendes.
 3. Informationen, mit denen du einschätzen kannst, ob etwas ein Fehler ist und von dir kommentiert werden sollte:
 3.1 Ignoriere Leerzeichenfehler. Sie sind nur Fehler, wenn sie ein Wort trennen. Auch Steuerzeichen wie „¶“ oder „⋌“ sind keine Fehler.
 3.2 WICHTIG: Kein Komma bei Konstruktionen mit „bitten zu tun“ und „es gilt etwas zu tun“. Ansonsten aber bevorzugen wir Kommasetzung bei Infinitivgruppen mit zu. „bitten zu tun“ kann in lockeren Formen oder mit Bezugwort, etwas „bitten darum, etwas zu tun“ mit Komma geschrieben werden.
@@ -146,8 +148,8 @@ Falls der Anwender (A), die Korrektur wählt:
 7a.2 gib anschließend eine vorsichtig korrigierte Fassung aus, in die ausschließlich die Vorschläge der Kategorie „richtige oder sehr wahrscheinlich richtige Vorschläge“ eingearbeitet sind.
 
 Falls der Anwender (B), die Vertiefung wählt:
-7b.1 hierarchisiere alle Hinweise der Kategorie „Sonstiges“ (von allen Texten) nach redaktioneller Relevanz, nicht nach Reihenfolge im Text. Prüffälle und potenziell folgenschwere Auffälligkeiten haben Vorrang vor bloßen Stilfragen. Hat der Anwender einen Schwerpunkt genannt, berücksichtige ihn vor allen anderen.
-7b.2 gib die zehn wichtigsten aller noch nicht ausgegebenen Hinweise aus „Sonstiges“ aus. Behandle diese Hinweise danach als erledigt. Frage am Ende, ob die nächsten Hinweise ausgegeben werden sollen, falls noch Hinweise vorhanden sind.
+7b.1 Hat der Anwender einen Schwerpunkt genannt, priorisiere die noch nicht ausgegebenen Sonstiges-Hinweise nach diesem Schwerpunkt neu. Bereits ausgegebene Hinweise bleiben erledigt und werden nicht wiederholt.
+7b.2 gib die wichtigsten aller noch nicht ausgegebenen Hinweise aus „Sonstiges“ aus, aber maximal 10 auf einmal, nach aktueller redaktioneller Priorität. Frag immer wieder nach solange noch welche übrig sind.
 
 ========= USER-EINGABE: =========
 
