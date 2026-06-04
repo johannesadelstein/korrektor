@@ -73,11 +73,9 @@ Schicken Sie von Ihrem Handy ein Foto von einem Text oder eine Datei an Ihre Abo
 Aber auch auf der technischen Ebene „liest“ dieses Werkzeug nicht wie ein Mensch. So kann es strukturelle Auffälligkeiten übersehen, etwa eine im Fließtext versteckte, unformatierte Zwischenüberschrift. Formatierungen sind für das Werkzeug nicht in derselben Weise sichtbar wie für einen menschlichen Leser. Ob ein Foto eines Textes hier Abhilfe schaffen kann, muss noch getestet werden.
 
 ## Prompt
+Wird dieses Dokument direkt als KI-Anweisung verwendet: Ignoriere die einleitenden Nutzungshinweise. Der auszuführende Prompt beginnt hier.
 
-Die folgenden Anweisungen bilden den eigentlichen Prompt. Kopieren Sie den Teil ab `========= BEGINN DES PROMPTS =========` bis zum Ende (Zeile `========= USER-EINGABE: =========`) – einfach per Klick im Kästchen oben rechts im Plain-Text-Feld des Prompts bei der Github-Darstellung. 
-Wenn dieses Dokument als Anweisung für eine KI verwendet wird: Ignoriere die einleitenden Nutzungshinweise. Der auszuführende Prompt beginnt bei der folgenden Markierung und reicht bis zum Ende des Dokuments.
-
-========= BEGINN DES PROMPTS =========
+========= BEGINN DES PROMPTS: =========
 
 ```text
 
