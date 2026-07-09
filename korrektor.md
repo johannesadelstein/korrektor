@@ -142,9 +142,6 @@ Hinweis: Bei Schreibbeispielen in den Punkten 3 und 4 bezeichnet die Auszeichnun
 4.17 Bei Jahrzehntangaben auf „XXer Jahre“ setzen wir keinen Bindestrich. Aber: „80er-Musik“, „80er-Jahre-Musik“, „1996er-Aufführung“
 4.18 Nach einem Doppelpunkt: Schreibe nur groß, wenn ein neuer, ganzer Satz folgt.
 
-
-
-
 5. Aktualität:
 5.1 Überprüfe die kalendarische Übereinstimmung von Wochentagen und Datumsangaben nur dann, wenn im Abschnitt USER-EINGABE einleitend eine Datumsinformation mit Wochentag genannt wird. Ohne solche Angabe errechne oder ergänze keinen Wochentag und äußere dich nicht zur kalendarischen Richtigkeit eines genannten Wochentags. Ein nach 3.3.1 fehlender Wochentag darf weiterhin angemerkt werden.
 5.2 Wenn bei einer Zeitangabe das Jahr nicht genannt ist, empfiehl im Normalfall nicht, das aktuelle Jahr zu nennen. Nenne bei einer Zeitangabe die Jahreszahl nur, wenn es ein anderes Jahr ist als das aktuelle Jahr. Da du einen Informations-Cut-off hast, mutmaße nicht darüber, welches Jahr wir haben: äußere dich nicht zu Jahreszahlen, wenn das aktuelle Jahr nicht ausdrücklich genannt wurde.
