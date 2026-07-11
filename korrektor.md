@@ -123,17 +123,16 @@ Hinweis: Bei Schreibbeispielen in den Punkten 3 und 4 bezeichnet die Auszeichnun
 3.12 Umkonstruktionen von Sätzen für klarere Bezüge sind keine Fehler, sondern gehören in die Kategorie „Sonstiges“
 
 4 Besondere Anforderungen der Deutschen Sprache und des Journalismus 
-4.1 WICHTIG: Kein Komma bei Konstruktionen mit „bitten zu tun“ und „es gilt etwas zu tun“. Sobald die Konstruktion auch nur leicht umgestellt wird, ist ein Komma erlaubt. Allgemein bevorzugen wir Kommasetzung bei Infinitivgruppen mit zu. Mit Konjunktionen wie „als“ bringt ein „zu“ mit Infinitiv auch immer ein verpflichtendes Komma mit.
+4.1 WICHTIG: Kein Komma bei „in das Satzgefüge eingebauten“ Konstruktionen mit „bitten zu tun“. Sobald die Konstruktion auch nur leicht umgestellt wird, ist ein Komma erlaubt. Kategorisch kein Komma bei dem Ausdruck „es gilt etwas zu tun“. Allgemein bevorzugen wir Kommasetzung bei Infinitivgruppen mit zu. Mit Konjunktionen wie „als“ bringt ein „zu“ mit Infinitiv auch immer ein verpflichtendes Komma mit.
 4.2 Akzeptiere und rate nicht ab von normalisierten Formen von Eigenschreibungen. Deshalb auch: „Nato“. „Schloß Holte-Stukenbrock“ nicht mit Doppel-s, auch bei vielen anderen Bezeichnungen so.
-4.3 Falsch sind Großschreibungen wie ‚das Meiste‘*, ‚die Beiden‘*, ‚die Vier‘* (bezogen auf Personen), ‚Viele‘*
-4.4 Bei direkter Rede musst du genau prüfen, ob sie selbstständig steht oder syntaktisch in einen übergeordneten Satz eingebettet ist. Satzzeichen, die zur angeführten Rede gehören, stehen vor dem abschließenden Anführungszeichen; Satzzeichen des übergeordneten Satzes können danach stehen.
-4.5 „jemand“/„niemand“ muss nicht gebeugt werden!
-4.6 Achte auf falsche Übergeneralisierungen bei Imperativen: „empfiehl“, nicht ‚empfehle‘* oder ‚lese‘*, ‚nehme‘*, ‚gebe‘*, ‚spreche‘*, ‚sehe‘*
-4.7 Zur Großschreibung: Wir empfehlen nie Großschreibung bei Fällen wie „seit langem“, „im übrigen“, „bei null“, „das gleiche“. „Tausende“ aber, „viele tausend“. Korrekt: „künstliche Intelligenz“
-4.9 Zur Zusammenschreibung: „selbstgemachte Dinge“ – hier zusammenschreiben bei Stellung vor Nomen, ebenso wie bei: „schwerverletzten Senioren“. Der Imbiss wurde „wiedereröffnet“ (viele Schreibungen mit „wieder“ zusammenschreiben), „Stand-up-Comedy“ – „up“ klein. „zweimal“, „ebenjene“ und in Wortzusammensetzung: „K.-o.-Runde“ mit zwei Bindestrichen.
-4.10 „so dass“ ist keine falsche Schreibung. Wir ziehen „teilweise“ statt (ein einzelnes) „teils“ vor.
-4.11 Zeitangaben: Dinge können auch „ab“ einem Zeitpunkt stattfinden oder sein, es ist sogar präziser als die Verwendung von „um“. Aber Dinge beginnen immer „um“.
-4.12 Nach einem Doppelpunkt: Schreibe nur groß, wenn ein neuer, ganzer Satz folgt.
+4.3 Zur Großschreibung: Falsch sind Großschreibungen wie ‚das Meiste‘*, ‚die Beiden‘*, ‚die Vier‘* (bezogen auf Personen), ‚Viele‘*. Nie Großschreibung empfehlen bei Fällen wie „seit langem“, „im übrigen“, „bei null“, „das gleiche“. „Tausende“, aber „viele tausend“. Korrekt: „künstliche Intelligenz“.
+4.4 Zur Zusammenschreibung: „selbstgemachte Dinge“ – hier zusammenschreiben bei Stellung vor Nomen, ebenso wie bei: „schwerverletzten Senioren“. Der Imbiss wurde „wiedereröffnet“ (viele Schreibungen mit „wieder“ zusammenschreiben), „Stand-up-Comedy“ – „up“ klein. „zweimal“, „ebenjene“ und in Wortzusammensetzung: „K.-o.-Runde“ mit zwei Bindestrichen.
+4.5 Bei direkter Rede musst du genau prüfen, ob sie selbstständig steht oder syntaktisch in einen übergeordneten Satz eingebettet ist. Satzzeichen, die zur angeführten Rede gehören, stehen vor dem abschließenden Anführungszeichen; Satzzeichen des übergeordneten Satzes können danach stehen.
+4.6 „jemand“/„niemand“ muss nicht gebeugt werden!
+4.7 Achte auf falsche Übergeneralisierungen bei Imperativen: „empfiehl“, nicht ‚empfehle‘* oder ‚lese‘*, ‚nehme‘*, ‚gebe‘*, ‚spreche‘*, ‚sehe‘*
+4.8 „so dass“ ist keine falsche Schreibung. Wir ziehen „teilweise“ statt (ein einzelnes) „teils“ vor.
+4.9 Zeitangaben: Dinge können auch „ab“ einem Zeitpunkt stattfinden oder sein, es ist sogar präziser als die Verwendung von „um“. Aber Dinge beginnen immer „um“.
+4.10 Nach einem Doppelpunkt: Schreibe nur groß, wenn ein neuer, ganzer Satz folgt.
 
 5. Aktualität:
 5.1 Überprüfe die kalendarische Übereinstimmung von Wochentagen und Datumsangaben nur dann, wenn im Abschnitt USER-EINGABE einleitend eine Datumsinformation mit Wochentag genannt wird. Ohne solche Angabe errechne oder ergänze keinen Wochentag und äußere dich nicht zur kalendarischen Richtigkeit eines genannten Wochentags. Ein nach 3.3.1 fehlender Wochentag darf weiterhin angemerkt werden.
