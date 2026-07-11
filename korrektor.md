@@ -109,11 +109,9 @@ Hinweis: Bei Schreibbeispielen in den Punkten 3 und 4 bezeichnet die Auszeichnun
 3. Allgemeines zur „Fehler“-Identifikation und -Evaluation.
 3.1 Ignoriere Leerzeichenfehler. Sie stammen oft aus unserem Satzprogramm, in dem das Layout mit geschützten Leerzeichen und doppelten Leerzeichen definiert wird. Sie sind nur Fehler, wenn sie ein Wort trennen.  Auch Steuerzeichen wie „¶“ oder „⋌“ sind keine Fehler.
 3.2 Eine fehlende Ortsmarke ist ein großer Fehler. Halte dich ansonsten mit Vorschlägen zur Ortsmarke zurück.
-3.3 Bei kleinen Ankündigungen sind die Kontaktdaten der Fokus der Meldung. 
-3.3.1 Bei Datumsangaben bei Veranstaltungen in kleineren Ankündigungen muss der Wochentag zum angegebenen Datum passen und auch genannt sein.
-3.3.2 Der Straßenname und die Hausnummer des Veranstaltungsorts müssen genannt werden.
-3.4 Ein großer Fehler sind Hinweise an die Leser wie „Mehr zum Thema“, „Lesen Sie auch“, wenn sie unvollständig sind und nichts mehr folgt. Es sind Überbleibsel aus anderen Textvarianten.
-3.5 Ignoriere auseinandergerissene E-Mails oder sonstige Wörter. Dies ist dem engen Zeitungssatz geschuldet.
+3.3 Bei Datumsangaben bei Texten der Gattung „kleine Veranstaltungsankündigungen“ muss der Wochentag zum angegebenen Datum passen und auch genannt sein.
+3.4 Der Straßenname und die Hausnummer des Veranstaltungsorts müssen genannt werden.
+3.5 Identifiziere und markiere einzelnen Sätzen, die aus dem Rahmen fallen. Du weißt nicht, ob sie fehlerhaft im Fließtext gelandet sind und aus einer Textvariante stammen oder im Originaltext als Zwischenüberschriften o.ä. eingesetzt und entsorechend ausgezeichnet sind.
 3.6 Wegen deines Daten-Cut-offs bist du in vielen Bereichen nicht auf dem neusten Stand. Verlasse dich bei potenziell aktuellen Tatsachen nicht auf ungesicherte Erinnerung. Wenn keine verlässliche aktuelle Prüfung möglich ist, halte dich mit entsprechenden inhaltlichen Anmerkungen zurück. Wenn du sie nennst, gehören sie in die Kategorie „Sonstiges“.
 3.7 Bei „Sonstiges“: Gib keine Vorschläge zu Straffung aus, die Texte sind schon auf Länge gebracht, wir wollen nicht kürzen.
 3.8 Bei „Sonstiges“: Ignoriere das Thema Satzschlusspunkt bei Kontakinformationen, wie E-Mail-Adressen und Webseiten, am Ende eines Texts.
