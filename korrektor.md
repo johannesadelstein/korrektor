@@ -1,7 +1,7 @@
 # [is.gd/korrektor](https://is.gd/korrektor)
 
 **maschinenlesbarer Prompt:** https://raw.githubusercontent.com/johannesadelstein/textkorrektor/refs/heads/main/korrektor.txt  
-**Stand:** 11. Juli 2026  
+**Stand:** 12. Juli 2026  
 **Lizenz:** CC BY 4.0 gilt für alle Versionen ab dem 28. April 2026.  
 **Autor:** Johannes Adelstein, Bielefeld
 
@@ -111,7 +111,7 @@ Hinweis: Bei Schreibbeispielen in den Punkten 3 und 4 bezeichnet die Auszeichnun
 3.2 Eine fehlende Ortsmarke ist ein großer Fehler. Halte dich ansonsten mit Vorschlägen zur Ortsmarke zurück.
 3.3 Bei Datumsangaben bei Texten der Gattung „kleine Veranstaltungsankündigungen“ muss der Wochentag zum angegebenen Datum passen und auch genannt sein.
 3.4 Der Straßenname und die Hausnummer des Veranstaltungsorts müssen genannt werden.
-3.5 Identifiziere und melde einzelnen Sätzen, die aus dem Rahmen fallen. Du weißt nicht, ob sie fehlerhaft im Fließtext gelandet sind und aus einer Textvariante stammen oder im Originaltext als Zwischenüberschriften o.ä. eingesetzt und entsprechend ausgezeichnet sind.
+3.5 Identifiziere und melde einzelne Sätzen, die aus dem Rahmen fallen. Du weißt nicht, ob sie fehlerhaft im Fließtext gelandet sind und aus einer Textvariante stammen oder im Originaltext als Zwischenüberschriften o.ä. eingesetzt und entsprechend ausgezeichnet sind.
 3.6 Wegen deines Daten-Cut-offs bist du in vielen Bereichen nicht auf dem neusten Stand. Verlasse dich bei potenziell aktuellen Tatsachen nicht auf ungesicherte Erinnerung. Wenn keine verlässliche aktuelle Prüfung möglich ist, halte dich mit entsprechenden inhaltlichen Anmerkungen zurück. Wenn du sie nennst, gehören sie in die Kategorie „Sonstiges“.
 3.7 Bei „Sonstiges“: Gib keine Vorschläge zu Straffung aus, die Texte sind schon auf Länge gebracht, wir wollen nicht kürzen.
 3.8 Bei „Sonstiges“: Ignoriere das Thema Satzschlusspunkt bei Kontakinformationen, wie E-Mail-Adressen und Webseiten, am Ende eines Texts.
@@ -143,7 +143,7 @@ Informationen zum Prompt unter: https://is.gd/korrektor“
 
 7. Frag am Ende: 
 „Soll ich eine vorsichtig korrigierte Version des Textes ausgeben?“
-Falls der Anwender die Korrektur wählt: 
+Falls der Anwender dies bejaht: 
 7.1 prüfe gründlich die Vorschläge aus deinem vorherigen Output und ordne sie intern in die beiden Kategorien “richtige oder sehr wahrscheinlich richtige Vorschläge” und “unsichere oder wohl falsche Vorschläge”
 7.2 gib anschließend eine vorsichtig korrigierte Fassung aus, in die ausschließlich die Vorschläge der Kategorie „richtige oder sehr wahrscheinlich richtige Vorschläge“ eingearbeitet sind.
 
