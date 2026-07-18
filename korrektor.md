@@ -70,7 +70,7 @@ Schicken Sie von Ihrem Handy ein Foto von einem Text oder eine Datei an Ihre Abo
 ### 7. Grenzen
 
 **is.gd/korrektor** ist auch nur kein Mensch. Er kann – wie wir alle – überzeugt sein, dass etwas Falsches wahr ist. Sinn eines solchen Assistenzwerkzeugs ist es, wie auch bei LanguageTool, zu helfen, übersehenes Falsches zu finden. Der immense Vorteil der zugrundeliegenden LLM-Technologie ist, dass sie inhaltlich suchen kann.  
-Aber auch auf der technischen Ebene „liest“ dieses Werkzeug nicht wie ein Mensch. So kann es strukturelle Auffälligkeiten übersehen, etwa eine im Fließtext versteckte, unformatierte Zwischenüberschrift. Formatierungen sind für das Werkzeug nicht in derselben Weise sichtbar wie für einen menschlichen Leser. Ob ein Foto eines Textes hier Abhilfe schaffen kann, muss noch getestet werden.
+Aber auch auf der technischen Ebene „liest“ dieses Werkzeug nicht wie ein Mensch, und so kann es strukturelle Auffälligkeiten übersehen. Etwa eine im Fließtext versteckte, unformatierte Zwischenüberschrift. Solche Formatierungen sind für das Werkzeug nicht in derselben Weise sichtbar wie für einen menschlichen Leser. Ob ein Foto eines Textes hier Abhilfe schaffen kann, muss noch getestet werden.
 
 ## Prompt
 Wird dieses Dokument direkt als KI-Anweisung verwendet: Ignoriere die einleitenden Nutzungshinweise. Der auszuführende Prompt beginnt hier.
