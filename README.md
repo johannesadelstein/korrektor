@@ -1,10 +1,9 @@
-# [is.gd/korrektor](https://is.gd/korrektor)
+# is.gd/korrektor
 
-**machine-readable prompt:** https://raw.githubusercontent.com/johannesadelstein/textkorrektor/refs/heads/main/korrektor.txt  
-**License:** CC BY 4.0  applies to all versions from 28 April 2026 onward.  
-**Author:** Johannes Adelstein, Bielefeld
+Machine-readable prompt: https://raw.githubusercontent.com/johannesadelstein/textkorrektor/refs/heads/main/korrektor.txt
 
----
+License: CC BY 4.0 applies to all versions from 28 April 2026 onward.  
+Author: Johannes Adelstein, Bielefeld
 
 This document contains a prompt for multilingual text correction.
 
@@ -12,72 +11,57 @@ This document contains a prompt for multilingual text correction.
 
 ### Option 1: Copy and paste
 
-1. Copy the prompt text through to the end and paste it into an AI of your
-   choice.  
-2. Append the text to be corrected at the end.
+Copy the entire prompt and paste it into an AI model of your choice. Append the text you want to have checked.
 
 ### Option 2: Direct reference
 
-Tell the AI directly (tested with Claude und Grok, 2026-05-07):
+Simply tell the AI (tested with Claude and Grok on 7 May 2026):
 
-> Proceed with my text as described at is.gd/korrektor
-
----
+    Proceed with my text as described at is.gd/korrektor
 
 ## Notes on use
 
 ### 1. Link machine
 
-**is.gd/korrektor** is a link machine; see Option 2 above and point 6.
-The prompt it contains provides a helpful format for copying and pasting
-incorrect expressions, for example when searching the original text or for
-documentation purposes.
+is.gd/korrektor is a link machine (see Option 2 above and Section 6). The prompt provides an output format that makes it easy to copy and paste flagged passages, for example to locate them in the original text or document them.
 
 ### 2. Preliminary check with LanguageTool
 
-For optimal results, for example with automatical date checking, it can be helpful to check the
-text with LanguageTool beforehand:
+For optimal results, particularly when checking dates, it can be helpful to run the text through LanguageTool first:
 
-<https://languagetool.org/editor/>
+https://languagetool.org/editor/
 
-In the free version, the amount of text is limited. You can simply delete
-the part of the text that has already been read; the correction then
-automatically covers the next section.
+The free version limits the amount of text you can check at once. Simply delete the section that has already been checked, and LanguageTool will automatically process the next section.
 
-### 3. Reactivation when there are many errors
+### 3. Running the prompt again
 
-Especially when **is.gd/korrektor** finds many errors, it may be worth
-activating the program again. However, **is.gd/korrektor** is designed to
-find the most serious errors in the first pass.
+Especially when is.gd/korrektor identifies many errors, it may be worth running the prompt again. However, it is designed to detect the most serious errors on the first pass.
 
 ### 4. Multiple texts
 
-**is.gd/korrektor** can check several shorter texts at the same time. It can also process texts in other languages, but it is specialized in German texts.
+is.gd/korrektor can check several shorter texts at once. It can also process texts in other languages, although it is primarily optimized for German.
 
 ### 5. Additional information
 
-**is.gd/korrektor** can take additional information from the user,
-preferably before the text to be corrected. With a current date,
-**is.gd/korrektor** can check whether texts, such as announcements, are
-up to date. Separating this information from the text to be corrected makes
-it easier for the program to classify the information. Example:
+is.gd/korrektor can take additional information into account, preferably provided before the text to be checked. For example, supplying the current date allows it to assess whether time-sensitive texts, such as event announcements, are up to date.
 
-```text
-Important: The publication date of the texts is tomorrow, Wednesday, 22 April 2026.
-========= TEXTS TO BE CORRECTED: =========
-```
+Separating this information from the text to be checked helps the model interpret it correctly.
+
+Example:
+
+    Important: The publication date is tomorrow, Wednesday, 22 April 2026.
+    ========= TEXTS TO BE CHECKED: =========
 
 ### 6. Photo or file
 
-Send a photo of a text or a file from your phone to your subscription AI and
-add the following instruction:
+Send a photo of a text or a file from your phone to your paid AI service and include the instruction:
 
-> proceed as described at is.gd/korrektor
+    Proceed as described at is.gd/korrektor
 
 ### 7. Limitations
 
-**is.gd/korrektor** is not human either and can, like all of us, be convinced
-that something false is true. The purpose of this kind of assistance, as
-with LanguageTool, is to help find overlooked errors. The immense advantage
-of the underlying LLM technology is that it can search for errors in terms
-of content.
+is.gd/korrektor isn't human either. Like all of us, it can be convinced that something false is true.
+
+As with LanguageTool, the purpose of this kind of assistance is to help identify errors that might otherwise be overlooked.
+
+The immense advantage of the underlying LLM technology is its ability to examine texts for errors in meaning and context.
