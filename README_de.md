@@ -72,4 +72,4 @@ Schicken Sie von Ihrem Handy ein Foto von einem Text oder eine Datei an Ihre Abo
 
 ### 7. Grenzen
 
-**is.gd/korrektor** is.gd/korrektor ist auch nur kein Mensch. Er kann – wie wir alle – überzeugt sein, dass etwas Falsches wahr ist. Sinn eines solchen Assistenzwerkzeugs ist es, wie auch bei LanguageTool, zu helfen, übersehenes Falsches zu finden. Der immense Vorteil der zugrundeliegenden LLM-Technologie ist, dass sie inhaltlich suchen kann.
+**is.gd/korrektor** ist auch nur kein Mensch. Er kann – wie wir alle – überzeugt sein, dass etwas Falsches wahr ist. Der Prompt soll nicht möglichst wenige falsche Vorschläge machen, sondern möglichst viele tatsächliche Fehler finden, ohne die Aufmerksamkeit des Lektors übermäßig zu beanspruchen. Der Textarbeiter sortiert mit Erfahrung die Fehlalarme aus – irgendwann ist das ein Blick.
